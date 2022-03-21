@@ -29,5 +29,5 @@ async function mintNFT(tokenURI) {
   console.log(`Transaction receipt: ${JSON.stringify(transactionReceipt)}`);
 }
 
-mintNFT("https://gateway.pinata.cloud/ipfs/QmdoaQzxz99dv2XkDVSo6EGDUScdn2MDSm8m2gBpCwmxvG");
+mintNFT("https://gateway.pinata.cloud/ipfs/Qmccivn1jT3JuE7VpkpvimUpUh5PzKDTNE4tcftK7vgtRC/nft-metadata.json");
 
