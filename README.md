@@ -4,3 +4,5 @@ ERC721 Contract etherscan Address [https://rinkeby.etherscan.io/address/0x671AB5
 NFT1-ipfs-link[https://gateway.pinata.cloud/ipfs/QmdoaQzxz99dv2XkDVSo6EGDUScdn2MDSm8m2gBpCwmxvG]
 
 Meta-data-ipfs-link[https://gateway.pinata.cloud/ipfs/Qmccivn1jT3JuE7VpkpvimUpUh5PzKDTNE4tcftK7vgtRC/nft-metadata.json]
+
+erc20 : https://github.com/UfiairENE/Ren-Token
